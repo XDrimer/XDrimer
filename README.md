@@ -9,7 +9,9 @@
 
 ## 🌐 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gustavo-de-la-torre-309a581ba/) 
+<br>
 📩 Email: gustavodelatorre77@gmail.com
+<br>
 ![Whatsapp](https://camo.githubusercontent.com/7bd751781e6f998e2fa3460d679bdddaa84d355b18418dca1dfa5ef317adc5dc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d576861747341707026636f6c6f723d323232323232266c6f676f3d5768617473417070266c6f676f436f6c6f723d323544333636266c6162656c3d) +54 11 6515 5169
 
 # 💻 Technologies
