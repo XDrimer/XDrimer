@@ -6,7 +6,7 @@
 - All of my projects are available at: https://gustavotorre.vercel.app/
 
 ## 🌐 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-de-la-torre-309a581ba/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-fabian-de-la-torre/) 
 <br>
 📩 Email: gustavodelatorre77@gmail.com
 <br>
