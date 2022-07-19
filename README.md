@@ -7,7 +7,7 @@
 <br>
 <p>Whishlist: Currently learning TypeScript</p>
 <br>
-<p>In the pinned repositories section you can see my two bigest projects, made with the technologies that i put in the technologies section. I can confident say that my main programming language is React</p>
+<p>In the pinned repositories section you can see my two bigest projects, made with the technologies that i put in the technologies section. I can confidently say that my main programming language is React</p>
 
 ## 🌐 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-fabian-de-la-torre/) 
